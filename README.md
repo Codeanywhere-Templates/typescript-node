@@ -1,6 +1,6 @@
 This is an example Typescript project used in Codeanywhere.
 
-[Try it out](https://beta.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/typescript-node)
+[Try it out](https://app.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/typescript-node)
 
 ### Running the project
 
